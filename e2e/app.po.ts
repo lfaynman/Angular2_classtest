@@ -1,4 +1,4 @@
-export class Demo1Page {
+export class Demo0816Page {
   navigateTo() {
     return browser.get('/');
   }
